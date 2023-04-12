@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'MewPlanet'
+title: 'Noby The Creator'
 description: '对一切科学感兴趣，不管是物理学、数学、计算机科学、认知科学，保持学习。'
 keyword: 'python, machine learning, deep learning, computer vision'
 url: '' # your host
@@ -17,7 +17,7 @@ baseurl: ''
 # Navigation links
 nav:
   home: ''
-  tags: '/tags.html'
+  tags: ''
 
 # Footer
 footer:
