@@ -16,8 +16,7 @@ baseurl: ''
 
 # Navigation links
 nav:
-  home: ''
-  tags: ''
+  home: '/'
 
 # Footer
 footer:
@@ -27,7 +26,7 @@ footer:
 author: 'Zhou Wanhe'
 nickname: 'Noby'
 bio: ''
-avatar: 'assets/img/duoduo/jpg'
+avatar: '/assets/img/duoduo/jpg'
 
 # Search
 search: true
